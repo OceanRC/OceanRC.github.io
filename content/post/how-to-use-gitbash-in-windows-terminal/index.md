@@ -29,9 +29,9 @@ Git Bash 则原汁原味的保留了 LInux 下的常用命令的所有参数操�
 
 如果你是通过搜索引擎进来的很可能也遇到了我之前遇到的问题。如果你是在开始菜单直接搜索 Git Bash 查找其指向的位置，并将其直接输入进 Windows Terminal 的配置中的话，当你打开这个页面的时候会直接弹出 Git Bash 的窗口，而不是在 Windows 终端打开它。
 
-![找到 Git Bash 指向的地址](assets/image-20231024235312-4bz31zs.png "找到 Git Bash 指向的地址")​
+![找到 Git Bash 指向的地址](assets/image-20231024235312-4bz31zs.png)​
 
-​![将其复制进去，简单的 Windows 终端配置](assets/image-20231024235314-cpn0dhh.png "将其复制进去，简单的 Windows 终端配置")
+​![将其复制进去，简单的 Windows 终端配置](assets/image-20231024235314-cpn0dhh.png )
 
 ![image](assets/image-20231024235827-yza91t0.png "直接弹出 Git Bash 自己的窗口，而不是在 Terminal 里面打开")​​
 
