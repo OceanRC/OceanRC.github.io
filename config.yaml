@@ -11,13 +11,13 @@ languages:
         title: Ocean's Blog
         weight: 1
         params:
-            description: Example description
+            description: Per aspera ad astra
     zh-cn:
         languageName: 中文
         title: Ocean's Blog
         weight: 2
         params:
-            description: 写到哪，算到哪
+            description: 循此苦旅，以达星辰
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -31,7 +31,7 @@ DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 permalinks:
     post: /p/:slug/
@@ -45,7 +45,7 @@ params:
     favicon: /favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2023
         customText:
 
     dateFormat:
@@ -70,7 +70,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: waline
 
         disqusjs:
             shortname:
@@ -99,9 +99,9 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL:
-            lang:
-            pageview:
+            serverURL: https://2jzst20l.api.lncldglobal.com
+            lang: zh-CN
+            pageview: true
             emoji:
                 - https://unpkg.com/@waline/emojis@1.0.1/weibo
             requiredMeta:
