@@ -10,6 +10,7 @@ tags = [
     "Win",
 ]
 image = "terminal.jpg"
+slug = "how-to-use-gitbash-in-windows-terminal"
 +++
 
 # 如何在 Windows Terminal 中使用 Git Bash
