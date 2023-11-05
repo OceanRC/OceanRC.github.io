@@ -35,13 +35,6 @@ Git Bash 则原汁原味的保留了 LInux 下的常用命令的所有参数操�
 <<<<<<< HEAD
  
 ![找到 Git Bash 指向的地址](image-20231024235312-4bz31zs.png)
-=======
-=======
-![image](assets/image-20231024235312-4bz31zs.png "找到 Git Bash 指向的地址")![image](assets/image-20231024235314-cpn0dhh.png "将其复制进去，简单的 Windows 终端配置")
->>>>>>> parent of 6466b07 (修改了图片注释)
-
-![找到 Git Bash 指向的地址](image-20231024235312-4bz31zs.png)
->>>>>>> parent of 908d4c0 (增加测试)
 
 ![将其复制进去，简单的 Windows 终端配置](image-20231024235314-cpn0dhh.png)
 
@@ -103,5 +96,3 @@ Git Bash 则原汁原味的保留了 LInux 下的常用命令的所有参数操�
 Git-Bash.exe 在执行时，也会先输入 `bash.exe --login -i`，目的是为了获取当前系统的语言配置等信息。
 
 具体信息可以参考：[Windows Terminal修复Git Bash中文乱码&amp;添加WT到右键菜单 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/166407830)
-
-‍
