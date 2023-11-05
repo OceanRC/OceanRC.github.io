@@ -99,7 +99,7 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL: https://2jzst20l.api.lncldglobal.com
+            serverURL: oceanRC.github.io
             lang: zh-CN
             pageview: true
             emoji:
