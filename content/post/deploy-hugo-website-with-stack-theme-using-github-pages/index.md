@@ -4,7 +4,7 @@ title = "使用 Github Pages 部署 Stack 主题的 Hugo 网站"
 date = "2023-10-25"
 description = "一个简单的 Hugo 站点部署教程，使用 Stack 主题，使用 Github Pages 部署"
 categories = [
-    "技术"，"站点"
+    "技术", "站点"
 ]
 tags = [
     "Win", "Hugo", "Github"
