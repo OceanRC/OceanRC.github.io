@@ -41,8 +41,6 @@ Git Bash 则原汁原味的保留了 LInux 下的常用命令的所有参数操�
 
 经过直接在 Git 的安装目录下查找，在这个文件夹（C:\Program Files\Git\bin）下可以找到我们需要使用的 bash.exe 文件。
 
-![image](image-20231025001956-wextwix.png)
-
 ![image](image-20231025001956-wextwix.png)​
 
 ### So Why Bash.exe？
