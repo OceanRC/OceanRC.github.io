@@ -34,11 +34,11 @@ Git Bash 则原汁原味的保留了 LInux 下的常用命令的所有参数操�
 
 ![将其复制进去，简单的 Windows 终端配置](image-20231024235314-cpn0dhh.png)
 
-![image](image-20231024235827-yza91t0.png "直接弹出 Git Bash 自己的窗口，而不是在 Terminal 里面打开")
+![直接弹出 Git Bash 自己的窗口，而不是在 Terminal 里面打开](image-20231024235827-yza91t0.png)
 
 经过直接在 Git 的安装目录下查找，在这个文件夹（C:\Program Files\Git\bin）下可以找到我们需要使用的 bash.exe 文件。
 
-![image](image-20231025001956-wextwix.png)
+![git/bin 文件路径](image-20231025001956-wextwix.png)
 
 ### So Why Bash.exe？
 
@@ -59,7 +59,7 @@ Git Bash 则原汁原味的保留了 LInux 下的常用命令的所有参数操�
 3. 启动目录：这个实际上因人而异，我个人用的是 `%USERPROFILE%/Workplace`，如果你想要默认为当前用户路径的话，不修改就可以
 4. 图标：C:\Program Files\Git\mingw64\share\git\git-for-windows.ico
 
-![image](image-20231025012632-4srfifh.png)
+![Windows Terminal 配置页面](image-20231025012632-4srfifh.png)
 
 或者你也可以直接使用 JSON 进行配置，配置如下（我设置了字体与亚克力模糊）：
 
@@ -83,7 +83,7 @@ Git Bash 则原汁原味的保留了 LInux 下的常用命令的所有参数操�
 
 最终效果如图所示：
 
-![image](image-20231025004652-1gi5mn3.png "最终的 Terminal 效果")
+![最终的 Terminal 效果](image-20231025004652-1gi5mn3.png "")
 
 ### Why `bash.exe --login -i`？
 
