@@ -9,7 +9,7 @@ categories = [
 tags = [
     "Win", "Hugo", "Github"
 ]
-image = "clark-tibbs-oqStl2L5oxI-unsplash.jpg.jpg"
+image = "clark-tibbs-oqStl2L5oxI-unsplash.jpg"
 slug = "deploy-hugo-website-with-stack-theme-using-github-pages"
 +++
 
